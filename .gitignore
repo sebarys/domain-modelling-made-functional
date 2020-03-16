@@ -2,6 +2,7 @@
 *.log
 .idea/
 .bloop/
+.metals/
 *.class
 *.log
 *.out
